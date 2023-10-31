@@ -1,13 +1,11 @@
-import logo from "./logo.svg";
 import "./App.css";
 import RButton from "./Components/RButton";
 
 function App() {
-  
-document.body.style.backgroundColor = '#282c34'
+  document.body.style.backgroundColor = "#282c34";
   return (
     <>
-      <RButton/>
+      <RButton />
     </>
   );
 }
